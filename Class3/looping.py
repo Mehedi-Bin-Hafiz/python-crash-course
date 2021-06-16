@@ -8,7 +8,8 @@ print(studentNames)
 # print(studentNames[3])
 
 print('all students:\n')
+
 n = 1
 for student in studentNames:
-    print(n,'.',student)
-    n = n+1
+    print(n,'. '+student)
+    n = n + 1
