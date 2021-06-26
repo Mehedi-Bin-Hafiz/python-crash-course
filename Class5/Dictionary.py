@@ -8,20 +8,16 @@
 
 studentNames = { 'Mehedi': 24, 'sifat': 23,'Mahadi':23,'khairul':24,'Israt':21,'hasnat':22,'Nahid':20 }
 # print(studentNames.items())
-
 # for key, age in studentNames.items():
 #     print(key+"'s age is: ", age)
-
 # for name, age in studentNames.items():
 #     if age > 23:
 #         print(name, 'will get gold.')
 #     else:
 #         print(name, 'will get silver.')
-
 # del studentNames['Nahid']
 #
 # print(studentNames)
-
 # for key in studentNames.keys():
 #     print(key)
 #
